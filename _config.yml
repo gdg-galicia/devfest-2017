@@ -21,23 +21,23 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Vigo"
-organizerAlternateName: "GDG Galicia"
+organizerName: "GDG Galicia"
+organizerAlternateName: "GDG"
 organizerDescription: "Open and volunteer geek community who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "info@gdgvigo.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://developers.google.com/groups/chapter/106284181570326060854/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, vigo"
+metaKeywords: "event, galicia, gdg, devfest, google, programming, developers, "
 twitterAccount: "@GDGVigo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://gdgvigo.typeform.com/to/JvDH2h"
+c4sponsorsUrl: "https://gdgvigo.typeform.com/to/Tx9PPS"
 
 
 # Navigation
@@ -93,7 +93,7 @@ locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Vigo"
+eventAddressLocality: ""
 eventAddressLocalityRegion: "Pontevedra"
 eventPostalCode: "36202"
 eventAddressCountry: "Ukraine"
@@ -180,7 +180,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@gdgvigo.com", text: "info@gdgvigo.com"}
+   - {link: "mailto:info@gdggalicia.com", text: "info@gdggalicia.com"}
  -
   title: "FAQ"
   links:
