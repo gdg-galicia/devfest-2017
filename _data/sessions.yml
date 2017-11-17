@@ -51,10 +51,10 @@
 
 -
   id: 003
-  title: "Vanessa talk"
+  title: "Letras vs ciencias"
   description: "Description here."
   subtype: presentation
-  speakers: [9]
+  speakers: [7]
   language: es
   complexity: "Intermediate"
 
@@ -73,14 +73,5 @@
   description: "Que es git? Cuando utilizarlo? Que tácticas usar? Como trabajar en grupo"
   subtype: workshop
   speakers: [6]
-  language: es
-  complexity: "Beginner"
-
--
-  id: 006
-  title: "Jugando con el AIY Google Voice Kit"
-  description: "Qué es el AIY Voice Kit? Qué podemos hacer con él? Veremos todo esto y como hacer la puesta a punto. Además haremos un par de demos para mostrar las posibilidades que nos proporciona. Habrá, al menos, dos kits montados para que todo el munda pueda jugar con ellos."
-  subtype: workshop
-  speakers: [7,8]
   language: es
   complexity: "Beginner"

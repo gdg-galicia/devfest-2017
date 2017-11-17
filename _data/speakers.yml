@@ -45,29 +45,6 @@
     - {name: "twitter", link: "http://twitter.com/eloycoto"}
 -
   id: 7
-  name: "Toni"
-  surname: "Martinez"
-  company: "IBM Research"
-  title: "Full Stack Developer"
-  bio: "Software Developer, apasionado de todo lo que tenga que ver con bits..."
-  thumbnailUrl: ToniMartinez.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "http://twitter.com/toniousli"}
-    - {name: "github", link: "https://github.com/tonimc"}
--
-  id: 8
-  name: "Moncho"
-  surname: "Pena"
-  company: "Freelance"
-  title: "Application Developer"
-  bio: "Desarrollador de aplicaciones, experto en Linux y en dirección de proyectos. Particularmente interesado en aplicaciones web y móbiles."
-  thumbnailUrl: MonchoPena.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "http://twitter.com/monchopena"}
--
-  id: 9
   name: "Vanessa"
   surname: ""
   company: "Freelance"
