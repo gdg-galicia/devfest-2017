@@ -10,8 +10,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Vigo 2017"
-email: "info@gdgvigo.com"
+title: "GDG DevFest Galicia 2017"
+email: "info@gdggalicia.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/"
 url: "https://devfest.gdggalicia.com"
@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}
  #- {permalink: "/firebase-appfest/", text: "Firebase Appfest"}
@@ -86,23 +86,23 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "More Speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: ""
+eventLocationName: "Facultade de Ciencias Sociais e da Comunicación"
+eventLocationLink: "http://csc.uvigo.es/"
+eventStreetAddress: "Campus Universitario da Xunqueira, S/N"
+eventAddressLocality: "Pontevedra"
 eventAddressLocalityRegion: "Pontevedra"
-eventPostalCode: "36202"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventPostalCode: "36005"
+eventAddressCountry: "Spain"
+eventStartTime: "2014-10-25T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "42.240065, -8.720963"
-mapCenterCoordinates: "42.240065, -8.720963"
-mapMobileCenterCoordinates: "42.240065, -8.720963"
+eventPlaceCoordinates: "42.440142, -8.638062"
+mapCenterCoordinates: "42.440142, -8.638062"
+mapMobileCenterCoordinates: "42.440142, -8.638062"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,7 +110,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "Facultade de Ciencias Sociais e da Comunicación"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
