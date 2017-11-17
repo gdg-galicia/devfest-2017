@@ -85,3 +85,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/toniousli"}
     - {name: "github", link: "https://github.com/tonimc"}
+-
+  id: 7
+  name: "Diego"
+  surname: "Reiriz"
+  title: "Researcher & Engineer"
+  thumbnailUrl: DiegoReiriz.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/diegoreico"}
+    - {name: "github", link: "https://github.com/DiegoReiriz"}
