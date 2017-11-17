@@ -62,6 +62,7 @@ typeoutFallback: "Season"
 heroButtons:
  - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
  - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Patrocínanos!"}
+ - {link: "https://www.meetup.com/es-ES/GDGVigo/events/242440940/", text: "Entrada gratuita"}
 
 # About Block
 aboutTitle: "Sobre el GDG DevFest"
@@ -121,11 +122,11 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Patrocinadores"
-partnersC4sponsorsButton: "Hazte sponsorQ"
+partnersC4sponsorsButton: "Hazte sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Subscríbete para recibir novedades"
 subscribeAction: "//gdgvigo.us16.list-manage.com/subscribe/post?u=66b4bb03b0b8f95169952466e&amp;id=50c4e234dc"
 
 # Tickets Block
