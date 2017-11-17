@@ -1,21 +1,25 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
   id: 503
   title: "Lunch Break"
   place: "Dining room"
   service: true
+
+-
+  id: 000
+  title: "Cooming soon"
+  description: "En breves colgaremos el contenido de la charla"
+  subtype: presentation
+  speakers: [100]
+  language: es
+  complexity: "Intermediate"
+
 -
   id: 001
   title: "Supercarga tu app con Cloud Functions de Firebase"
   description: "En este workshop práctico vamos a codear una Cloud Function desde 0, desplegarla con firebase-cli a Google Cloud Platform y ejecutarla con un evento que generarán nuestros usuarios de FriendlyChat, un chat en Android serveless disponible en este codelab de Firebase."
   subtype: presentation
   speakers: [3]
-  language: en
+  language: es
   complexity: "Intermediate"
 
 -
@@ -24,15 +28,25 @@
   description: "prende a crear un entorno Serverless con Firebase y Cloud Functions, y añádele 'magia' utilizando las APIs de Machine Learning de Google Cloud"
   subtype: presentation
   speakers: [4]
-  language: en
+  language: es
   complexity: "Intermediate"
+
+-
+  id: 003
+  title: "Vanessa talk"
+  description: "Description here."
+  subtype: presentation
+  speakers: [9]
+  language: es
+  complexity: "Intermediate"
+
 -
   id: 004
   title: "Angular Basics"
   description: "Crear una aplicación de Angular desde 0!"
   subtype: workshop
   speakers: [5]
-  language: uk
+  language: es
   complexity: "Beginner"
 
 -
@@ -41,5 +55,14 @@
   description: "Que es git? Cuando utilizarlo? Que tácticas usar? Como trabajar en grupo"
   subtype: workshop
   speakers: [6]
-  language: en
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 006
+  title: "Jugando con el AIY Google Voice Kit"
+  description: "Qué es el AIY Voice Kit? Qué podemos hacer con él? Veremos todo esto y como hacer la puesta a punto. Además haremos un par de demos para mostrar las posibilidades que nos proporciona. Habrá, al menos, dos kits montados para que todo el munda pueda jugar con ellos."
+  subtype: workshop
+  speakers: [7,8]
+  language: es
   complexity: "Beginner"
