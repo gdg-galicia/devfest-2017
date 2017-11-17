@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG DevFest Galicia 2017"
 email: "info@gdggalicia.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "GDG DevFest es un conjunto de eventos celebrados en todo el mundo"
 baseurl: ""
 url: "https://devfest.gdggalicia.com"
 permalink: "/blog/:title"
@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "GDG Galicia"
 organizerAlternateName: "GDG"
-organizerDescription: "Open and volunteer geek community who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "Comunidad abierta de voluntarios geeks que crean proyectos y comparten experiencias sobre tecnologias de Google con pasión."
 organizerEmail: "info@gdgvigo.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://developers.google.com/groups/chapter/106284181570326060854/"
@@ -42,54 +42,53 @@ c4sponsorsUrl: "https://gdgvigo.typeform.com/to/Tx9PPS"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "DevFest"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Location"}
- #- {permalink: "/firebase-appfest/", text: "Firebase Appfest"}
+ - {permalink: "/team/", text: "Organizadores"}
+ - {permalink: "/logistics/", text: "Ubicación"}
 bottomNavigationLinks:
- - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Become a speaker"}
+ - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
 rightNavigationButtons:
- - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Become a speaker"}
+ - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
 
 # Hero Block
 heroImage: "fireworks.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
 eventDate: "16 December, 2017"
-typeoutTextValues: '"", "Galicia"'
+typeoutTextValues: '"", "Ourense", "Santiago", "Vigo", "Galicia"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Become a speaker"}
- - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Sponsor us!"}
+ - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
+ - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Patrocínanos!"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Sobre el GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "gdg-devfest.png", text: "GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas. Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "gdgDevelopers.png", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conferencias", image: "gdg-devfest.png", text: "En el GDG DevFests Galicia 2017 se realizarán 6 conferencias por unos pedazo de speakers que nos hablarán de las últimas tecnologías con las que está trabando." }
+ - {title: "Workshops", image: "gdgDevelopers.png", text: "Un dia entero de workshops que serán sesiones más participativas en las que se harán demos en tiempo real de productos y en las que puedes acercarte con tu propio portátil y resolver cualquier duda que te surja." }
 
 # Statistic Block
 statisticBlockImage: "numbers-front.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "attendees"}
- - {count: "6", specialCharacter: "+", info: "hours"}
- - {count: "6", specialCharacter: "+", info: "speakers"}
+ - {count: "300", specialCharacter: "+", info: "asistentes"}
+ - {count: "6", specialCharacter: "+", info: "horas"}
+ - {count: "11", specialCharacter: "+", info: "speakers"}
  - {count: "2", specialCharacter: "", info: "tracks"}
 
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "More Speakers"
+rockstarSpeakersButtonText: "Más Speakers"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Ubicación"
 eventLocationName: "Facultade de Ciencias Sociais e da Comunicación"
 eventLocationLink: "http://csc.uvigo.es/"
 eventStreetAddress: "Campus Universitario da Xunqueira, S/N"
@@ -120,9 +119,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Hazte sponsorQ"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -130,7 +129,7 @@ subscribeTitle: "Subscribe for updates"
 subscribeAction: "//gdgvigo.us16.list-manage.com/subscribe/post?u=66b4bb03b0b8f95169952466e&amp;id=50c4e234dc"
 
 # Tickets Block
-ticketsTitle: "Sponsorships"
+ticketsTitle: "Patrocinios"
 ticketsOffers:
  -
   name: "Shy guy"
@@ -138,7 +137,7 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "150"
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Sponsor Now"
+  buyButtonText: "Patrocina ahora"
   ticketContentList: ["Logo en web", "Diapositiva conjunta", "Mención en social media"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
@@ -149,8 +148,8 @@ ticketsOffers:
   ticketsNumber: "800"
   featured: true
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Sponsor Now"
-  ticketContentList: ["All from High five ", "Logo en los títulos de la grabación", "Booth para contratar gente"]
+  buyButtonText: "Patrocina ahora"
+  ticketContentList: ["Todo lo incluído en High five ", "Logo en los títulos de la grabación", "Stand para contratar gente"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
  -
@@ -159,9 +158,9 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "400"
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Sponsor Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["All from Shy guy", "Diapositiva propia", "Logo en Camisetas"]
+  buyButtonText: "Patrocina ahora"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Todo lo incluído en Shy guy", "Diapositiva propia", "Logo en Camisetas"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
 
@@ -184,10 +183,10 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de conducta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
 discusShortName: "devfest"
 
@@ -195,8 +194,8 @@ discusShortName: "devfest"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "We are a team of 8 GDG organisers, each one with our own speciality. We love what we do for the community: help people, meet people and organise events. We are looking forward to meeting you so if you see any one of us and feel like a chat, just stop us and say hi!"
+teamBlockTitle: "Sobre nosotros"
+aboutUs: "Somos un equipo de 8 organizadores de GDG, cada uno con su propia area de especialización. Nos apasiona lo que hacemos para la comunidad: ayudar a gente, conocer personas y organizar eventos. Estamos deseando conocerte, por lo que si te cruzas con alguno de nosotros en el evento y te apetece hablar, páranos y dinos Hola!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
