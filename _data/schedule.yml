@@ -5,6 +5,16 @@
     - {title: "Charlas", color: "#e91e63"}
   timeslots:
     - {
+        startTime: "09:00",
+        endTime: "09:30",
+        sessionIds: [500]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:00",
+        sessionIds: [501]
+    }
+    - {
     	startTime: "10:00",
         endTime: "11:00",
         sessionIds: [001]
@@ -38,6 +48,11 @@
         startTime: "16:30",
         endTime: "17:30",
         sessionIds: [000]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [503]
     }
 - 
   date: "2017-12-24"

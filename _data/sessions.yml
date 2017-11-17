@@ -1,6 +1,24 @@
 -
+  id: 500
+  title: "Registro"
+  place: "Hall de entrada"
+  service: true
+
+-
+  id: 501
+  title: "Bienvenida"
+  place: "Salón de Actos"
+  service: true
+
+-
+  id: 502
+  title: "Cierre de evento"
+  place: "Salón de Actos"
+  service: true
+
+-
   id: 503
-  title: "Lunch Break"
+  title: "Comida"
   place: "Dining room"
   service: true
 
