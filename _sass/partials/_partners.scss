@@ -21,5 +21,8 @@
         &:hover {
             filter: grayscale(0);
         }
+        &.organizers {
+            height: 23px;
+        }
     }
 }
