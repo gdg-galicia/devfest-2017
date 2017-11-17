@@ -17,14 +17,7 @@
   speakers: [3]
   language: en
   complexity: "Intermediate"
--
-  id: 003
-  title: "Cómo hacer Hotdog or Not con Firebase Cloud Functions y Machine Learning APIS"
-  description: "prende a crear un entorno Serverless con Firebase y Cloud Functions, y añádele 'magia' utilizando las APIs de Machine Learning de Google Cloud"
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
+
 -
   id: 002
   title: "Cómo hacer Hotdog or Not con Firebase Cloud Functions y Machine Learning APIS"
