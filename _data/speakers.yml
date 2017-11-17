@@ -1,4 +1,5 @@
-- 
+
+-
   id: 3
   name: "Paola"
   surname: "García"
@@ -65,3 +66,25 @@
   rockstar: false
   social:
     - {name: "twitter", link: "http://twitter.com/monchopena"}
+-
+  id: 9
+  name: "Vanessa"
+  surname: ""
+  company: "Freelance"
+  title: "Developer"
+  bio: "."
+  thumbnailUrl: Unknown.png
+  rockstar: false
+#  social:
+#    - {name: "twitter", link: "http://twitter.com/"}
+-
+  id: 100
+  name: "Cooming soon"
+#  surname: ""
+  company: "DevFest Speakers"
+#  title: "Software Engineer"
+  bio: "Si te gustaría dar una charla en el DevFest envíanos una propuesta en nuestro <a href='https://gdgvigo.typeform.com/to/JvDH2h' target='_blank'>C4P</a>."
+  thumbnailUrl: Unknown.png
+  rockstar: false
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/ggarciapaola/"}
