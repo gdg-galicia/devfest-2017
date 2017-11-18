@@ -187,7 +187,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Últimas noticias"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfest"
 
 # Speakers List Block
@@ -198,12 +198,12 @@ teamBlockTitle: "Sobre nosotros"
 aboutUs: "Somos un equipo de 8 organizadores de GDG, cada uno con su propia area de especialización. Nos apasiona lo que hacemos para la comunidad: ayudar a gente, conocer personas y organizar eventos. Estamos deseando conocerte, por lo que si te cruzas con alguno de nosotros en el evento y te apetece hablar, páranos y dinos Hola!"
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
+findWayTitle: "Cómo llegar?"
+findWayDistance: "Distancia"
+findWayDriving: "EN COCHE"
+findWayWalking: "CAMINANDO"
+findWayBicycling: "EN BICI"
+findWayTransit: "TRANSPORTE"
 findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "42.240065, -8.720963"
 logisticsMapMobileCenterCoordinates: "42.240065, -8.720963"
@@ -212,9 +212,9 @@ logisticsMapAutoDirections: false
 # Logistics Direction Details Block
 directionDetailsImage: "main-venue.jpg"
 directionDetailsTitle: "Facultade de Ciencias Sociais<br/> e da Comunicación"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+#directionDetailsCards:
+# - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+# - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
 # - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 #directionDetailsWideCards:
 # -
