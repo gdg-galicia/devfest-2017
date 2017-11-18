@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "GDG Galicia"
 organizerAlternateName: "GDG"
-organizerDescription: "Comunidad abierta de voluntarios geeks que crean proyectos y comparten experiencias sobre tecnologias de Google con pasión."
+organizerDescription: "Comunidad abierta de voluntarios geeks que crean proyectos y comparten experiencias sobre tecnologías de Google con pasión."
 organizerEmail: "info@gdgvigo.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://developers.google.com/groups/chapter/106284181570326060854/"
@@ -56,9 +56,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "fireworks.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
-eventDate: "16 December, 2017"
+eventDate: "16 Diciembre 2017"
 typeoutTextValues: '"", "Ourense", "Santiago", "Vigo", "Galicia"'
-typeoutFallback: "Season"
+typeoutFallback: ""
 heroButtons:
  - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
  - {link: "#tickets", text: "Patrocínanos!"}
@@ -105,7 +105,7 @@ mapCenterCoordinates: "42.440142, -8.638062"
 mapMobileCenterCoordinates: "42.440142, -8.638062"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Instalaciones"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
