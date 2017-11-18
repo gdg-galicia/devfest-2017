@@ -208,6 +208,7 @@ findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "42.240065, -8.720963"
 logisticsMapMobileCenterCoordinates: "42.240065, -8.720963"
 logisticsMapAutoDirections: false
+googleMapsAPIKey: AIzaSyBzxwjJpVaEkuu9oef969hTEH9ZIZc_b-I
 
 # Logistics Direction Details Block
 directionDetailsImage: "main-venue.jpg"
