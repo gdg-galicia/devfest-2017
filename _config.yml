@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Ourense", "Santiago", "Vigo", "Galicia"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
- - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Patrocínanos!"}
+ - {link: "#tickets", text: "Patrocínanos!"}
  - {link: "https://www.meetup.com/es-ES/GDGVigo/events/242440940/", text: "Entrada gratuita"}
 
 # About Block
