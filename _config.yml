@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Organizadores"}
+ - {permalink: "/code-of-conduct/", text: "Código de Conducta"}
  - {permalink: "/logistics/", text: "Ubicación"}
 bottomNavigationLinks:
  - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
@@ -183,7 +184,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Código de conducta"}
+   - {permalink: "/code-of-conduct/", text: "Código de conducta"}
 
 # Blog
 blogTitle: "Últimas noticias"
