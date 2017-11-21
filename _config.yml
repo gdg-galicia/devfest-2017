@@ -14,7 +14,7 @@ title: "GDG DevFest Galicia 2017"
 email: "info@gdggalicia.com"
 description: "GDG DevFest es un conjunto de eventos celebrados en todo el mundo"
 baseurl: ""
-url: "https://devfest.gdggalicia.com"
+url: "http://devfest.gdggalicia.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-109987827-1"
 googleAnalyticsSiteUrl: "devfest.gdggalicia.com"
@@ -208,7 +208,6 @@ findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "42.240065, -8.720963"
 logisticsMapMobileCenterCoordinates: "42.240065, -8.720963"
 logisticsMapAutoDirections: false
-googleMapsAPIKey: AIzaSyBzxwjJpVaEkuu9oef969hTEH9ZIZc_b-I
 
 # Logistics Direction Details Block
 directionDetailsImage: "main-venue.jpg"
