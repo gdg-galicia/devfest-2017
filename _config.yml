@@ -24,7 +24,7 @@ siteVerification: "EXdO3QQvjtS2RGFWXqXD6rzYECtFDpWrRRI0Cc31xbc"
 organizerName: "GDG Galicia"
 organizerAlternateName: "GDG"
 organizerDescription: "Comunidad abierta de voluntarios geeks que crean proyectos y comparten experiencias sobre tecnologías de Google con pasión."
-organizerEmail: "info@gdgvigo.com"
+organizerEmail: "info@gdggalicia.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://developers.google.com/groups/chapter/106284181570326060854/"
 
@@ -168,10 +168,10 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/communities/104458805154699272096", icon: "google-plus"}
  - {link: "https://twitter.com/gdgvigo", icon: "twitter"}
+ - {link: "https://twitter.com/gdgourense", icon: "twitter"}
  - {link: "https://www.facebook.com/pg/googledevelopergroupvigo/about/", icon: "facebook"}
- - {link: "https://github.com/GDGVigo", icon: "github"}
+ - {link: "https://github.com/gdggalicia", icon: "github"}
 footerBlocks:
  -
   title: "Links"
