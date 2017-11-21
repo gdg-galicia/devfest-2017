@@ -110,8 +110,8 @@ venueBlockTitle: "Instalaciones"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueTitle: "Facultade de Ciencias Sociais e da Comunicación"
-venueFeatures: ["salón de actos principal con cabida para más de 300 personas", "Aulas para workshops"]
+venueTitle: "Facultade de Ciencias Sociais e da Comunicación - Universidade de Vigo"
+venueFeatures: ["Salón de actos principal con cabida para más de 300 personas", "Aulas para workshops"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -196,7 +196,9 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nosotros"
-aboutUs: "Somos un equipo de 8 organizadores de GDG, cada uno con su propia area de especialización. Nos apasiona lo que hacemos para la comunidad: ayudar a gente, conocer personas y organizar eventos. Estamos deseando conocerte, por lo que si te cruzas con alguno de nosotros en el evento y te apetece hablar, páranos y dinos Hola!"
+aboutUs: "Somos un equipo de 8 organizadores de GDG, cada uno con su propia area de especialización. Nos apasiona lo que
+ hacemos para la comunidad: ayudar a gente, conocer personas y organizar eventos. Estamos deseando conocerte, por lo que
+  si te cruzas con alguno de nosotros en el evento y te apetece hablar, páranos y dinos Hola!"
 
 # Logistics Find Way Block
 findWayTitle: "Cómo llegar?"
