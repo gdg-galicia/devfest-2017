@@ -43,12 +43,12 @@ c4sponsorsUrl: "https://gdgvigo.typeform.com/to/Tx9PPS"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "DevFest"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Organizadores"}
  - {permalink: "/code-of-conduct/", text: "Código de Conducta"}
  - {permalink: "/logistics/", text: "Ubicación"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
  - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
 rightNavigationButtons:
