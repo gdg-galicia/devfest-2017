@@ -76,7 +76,7 @@ statisticBlockImage: "numbers-front.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "asistentes"}
  - {count: "6", specialCharacter: "+", info: "horas"}
- - {count: "11", specialCharacter: "+", info: "speakers"}
+ - {count: "10", specialCharacter: "+", info: "speakers"}
  - {count: "2", specialCharacter: "", info: "tracks"}
 
 
