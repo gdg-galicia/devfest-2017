@@ -52,7 +52,7 @@
   bio: "."
   thumbnailUrl: VanesaGallego.jpg
   rockstar: true
-#  social:
+  social:
     - {name: "twitter", link: "http://twitter.com/vanesagm"}
 -
   id: 100
