@@ -46,14 +46,14 @@
 -
   id: 7
   name: "Vanessa"
-  surname: ""
+  surname: "Gallego"
   company: "Freelance"
   title: "Developer"
   bio: "."
-  thumbnailUrl: Unknown.png
-  rockstar: false
+  thumbnailUrl: VanesaGallego.jpg
+  rockstar: true
 #  social:
-#    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/vanesagm"}
 -
   id: 100
   name: "Cooming soon"
