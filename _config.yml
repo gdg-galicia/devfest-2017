@@ -19,6 +19,7 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-109987827-1"
 googleAnalyticsSiteUrl: "devfest.gdggalicia.com"
 siteVerification: "EXdO3QQvjtS2RGFWXqXD6rzYECtFDpWrRRI0Cc31xbc"
+googleMapsApiKey: "AIzaSyCGd7-Etpsp2rBAX0Wa_PMFPTrO2sE2flU"
 
 # Organizer Info
 organizerName: "GDG Galicia"

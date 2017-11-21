@@ -25,7 +25,7 @@
 -
   id: 000
   title: "Cooming soon"
-  description: "En breves colgaremos el contenido de la charla"
+  description: "En breve colgaremos el contenido de la charla"
   subtype: presentation
   speakers: [100]
   language: es
@@ -33,7 +33,7 @@
 
 -
   id: 001
-  title: "Supercarga tu app con Cloud Functions de Firebase"
+  title: "Charla: Supercarga tu app con Cloud Functions de Firebase"
   description: "En este workshop práctico vamos a codear una Cloud Function desde 0, desplegarla con firebase-cli a Google Cloud Platform y ejecutarla con un evento que generarán nuestros usuarios de FriendlyChat, un chat en Android serveless disponible en este codelab de Firebase."
   subtype: presentation
   speakers: [3]
@@ -42,8 +42,9 @@
 
 -
   id: 002
-  title: "Cómo hacer Hotdog or Not con Firebase Cloud Functions y Machine Learning APIS"
-  description: "prende a crear un entorno Serverless con Firebase y Cloud Functions, y añádele 'magia' utilizando las APIs de Machine Learning de Google Cloud"
+  title: "Charla: Cómo programar 'Hotdog or Not' con Machine Learning APIS y Firebase Cloud Functions"
+  description: "Aprende a crear un entorno Serverless con Firebase y Cloud Functions, y añádele 'magia' utilizando
+  las APIs de Machine Learning de Google Cloud"
   subtype: presentation
   speakers: [4]
   language: es
@@ -51,7 +52,7 @@
 
 -
   id: 003
-  title: "Letras vs ciencias"
+  title: "Charla: Letras vs ciencias"
   description: "Description here."
   subtype: presentation
   speakers: [7]
@@ -60,8 +61,8 @@
 
 -
   id: 004
-  title: "Angular Basics"
-  description: "Crear una aplicación de Angular desde 0!"
+  title: "Taller: Angular Basics"
+  description: "Taller paso a paso para crear una aplicación desde 0 escrita en TypeScript con Angular v4"
   subtype: workshop
   speakers: [5]
   language: es
@@ -69,8 +70,8 @@
 
 -
   id: 005
-  title: "Que es git?"
-  description: "Que es git? Cuando utilizarlo? Que tácticas usar? Como trabajar en grupo"
+  title: "Taller: Introducción a Git"
+  description: "¿Qué es git? Aprenderemos cuando utilizarlo, que tácticas usar y como trabajar en grupo"
   subtype: workshop
   speakers: [6]
   language: es
