@@ -48,6 +48,18 @@
     - {name: "twitter", link: "https://twitter.com/_saulmm?lang=en"}
     - {name: "github", link: "https://github.com/saulmm"}
 -
+  id: 7
+  name: "Diego"
+  surname: "Reiriz"
+  title: "Researcher & Engineer"
+  thumbnailUrl: DiegoReiriz.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/diegoreico"}
+    - {name: "github", link: "https://github.com/DiegoReiriz"}
+-
   id: 2
   name: "Abdon"
   surname: "Rodríguez"
@@ -73,15 +85,4 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+Germ%C3%A1nVerasG%C3%B3mez"}
     - {name: "github", link: "https://github.com/Gnonimus"}
     - {name: "twitter", link: "https://twitter.com/GermanVeras"}
--
-  id: 7
-  name: "Diego"
-  surname: "Reiriz"
-  title: "Researcher & Engineer"
-  thumbnailUrl: DiegoReiriz.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/diegoreico"}
-    - {name: "github", link: "https://github.com/DiegoReiriz"}
+
