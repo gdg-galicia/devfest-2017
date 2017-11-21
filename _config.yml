@@ -16,8 +16,8 @@ description: "GDG DevFest es un conjunto de eventos celebrados en todo el mundo"
 baseurl: ""
 url: "https://devfest.gdggalicia.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-109987827-1"
+googleAnalyticsSiteUrl: "devfest.gdggalicia.com"
 siteVerification: "EXdO3QQvjtS2RGFWXqXD6rzYECtFDpWrRRI0Cc31xbc"
 
 # Organizer Info
