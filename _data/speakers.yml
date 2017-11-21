@@ -55,6 +55,39 @@
   social:
     - {name: "twitter", link: "http://twitter.com/vanesagm"}
 -
+  id: 8
+  name: "Antón M."
+  surname: "Rodríguez"
+  company: "Optare Solutions"
+  title: "Adios Curriculum Vitae, hola Software Libre"
+  bio: "Director Técnico en Optare Solutions"
+  thumbnailUrl: AntonRodriguez.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/antonmry"}
+-
+  id: 9
+  name: "Saúl"
+  surname: "Molinero"
+  company: "Flipsy"
+  title: "Desarrollo Móvil: Native vs Web"
+  bio: "."
+  thumbnailUrl: SaulMolinero.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/_saulmm"}
+-
+  id: 9
+  name: "Abdón"
+  surname: "Rodríguez"
+  company: "IBM Research"
+  title: "Desarrollo Móvil: Native vs Web"
+  bio: "."
+  thumbnailUrl: AbdonRodriguez.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/abdonrd"}
+-
   id: 100
   name: "Cooming soon"
 #  surname: ""
