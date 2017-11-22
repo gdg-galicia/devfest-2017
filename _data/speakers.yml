@@ -3,8 +3,8 @@
   id: 3
   name: "Paola"
   surname: "García"
-  company: "CEO Chefly"
-  title: "Software Engineer"
+  company: "Chefly"
+  title: "CEO, Co-Founder"
   bio: "Software Engineer. Building communities in Chefly and Women Welcome & OpenSource Weekends. Diversity Advocate in tech events."
   thumbnailUrl: PaolaGarcia.jpg
   rockstar: true
@@ -14,9 +14,9 @@
   id: 4
   name: "Carlos"
   surname: "Azaustre"
-  company: "Developer Relationship Google"
-  title: "Software Engineer"
-  bio: "CTO y Cofundador de Chefly. Desarrollador JavaScript y Formador en Tecnologías Web. Apasionado de Firebase, Node.js, Vue y en general del FrontEnd Web"
+  company: "DevRel @ Google, CTO & Co-Founder @ Chefly"
+#  title: "."
+  bio: "Desarrollador JavaScript y Formador en Tecnologías Web. Apasionado de Firebase, Node.js, Vue y en general del FrontEnd Web"
   thumbnailUrl: CarlosAzaustre.jpg
   rockstar: true
   social: 
@@ -37,7 +37,7 @@
   name: "Eloy"
   surname: "Coto"
   company: "Freelance"
-  title: "Ingeniero de software"
+  title: "Software Engineer"
   bio: "Ingeniero de software freelance. ex Quobis, Webphone, y Foehn"
   thumbnailUrl: EloyCoto.jpg
   rockstar: true
@@ -45,11 +45,11 @@
     - {name: "twitter", link: "http://twitter.com/eloycoto"}
 -
   id: 7
-  name: "Vanessa"
+  name: "Vanesa"
   surname: "Gallego"
-  company: "Freelance"
-  title: "Developer"
-  bio: "."
+  company: "Google Launchpad, IE Business School"
+  title: "Mentor "
+  bio: "Periodista con bits en la sangre. Especialista en marketing y advertising"
   thumbnailUrl: VanesaGallego.jpg
   rockstar: true
   social:
@@ -59,8 +59,8 @@
   name: "Antón M."
   surname: "Rodríguez"
   company: "Optare Solutions"
-  title: "Adios Curriculum Vitae, hola Software Libre"
-  bio: "Director Técnico en Optare Solutions"
+  title: "Director Técnico"
+  bio: "Co-organizador del VigoJUG, colaborador de la VigoTechAlliance y apasionado del software libre"
   thumbnailUrl: AntonRodriguez.jpg
   rockstar: true
   social:
@@ -70,7 +70,7 @@
   name: "Saúl"
   surname: "Molinero"
   company: "Popsy"
-  title: "Desarrollo Móvil: Native vs Web"
+  title: "Software Engineer"
   bio: "."
   thumbnailUrl: SaulMolinero.jpg
   rockstar: true
@@ -81,7 +81,7 @@
   name: "Abdón"
   surname: "Rodríguez"
   company: "IBM Research"
-  title: "Desarrollo Móvil: Native vs Web"
+  title: "Software Engineer"
   bio: "."
   thumbnailUrl: AbdonRodriguez.jpg
   rockstar: true
