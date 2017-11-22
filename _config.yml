@@ -32,9 +32,9 @@ organizerLink: "https://developers.google.com/groups/chapter/1062841815703260608
 # Head
 metaKeywords: "event, galicia, gdg, devfest, google, programming, developers, "
 twitterAccount: "@GDGVigo"
-socialImageSrcGooglePlus: "/img/seo/GDGDevfest.png"
-socialImageSrcTwitter: "/img/seo/GDGDevfest.png"
-socialImageSrcFacebook: "/img/seo/GDGDevfest.png"
+socialImageSrcGooglePlus: "/img/seo/social-share.png"
+socialImageSrcTwitter: "/img/seo/social-share.png"
+socialImageSrcFacebook: "/img/seo/social-share.png"
 
 # Documents
 c4pUrl: "https://gdgvigo.typeform.com/to/JvDH2h"
