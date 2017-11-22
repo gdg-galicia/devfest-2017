@@ -52,8 +52,8 @@
 
 -
   id: 003
-  title: "Charla: Letras vs ciencias"
-  description: "Description here."
+  title: "Charla: Branding para developers"
+  description: "Consejos para salir de la cueva y no morir en el intento"
   subtype: presentation
   speakers: [7]
   language: es
