@@ -78,6 +78,15 @@
   complexity: "Beginner"
 
 -
+  id: 008
+  title: "Taller: Taller de introducción a detección de objetos con TensorFlow"
+  description: ""
+  subtype: workshop
+  speakers: [11]
+  language: es
+  complexity: "Beginner"
+
+-
   id: 006
   title: "Charla: Adiós Curriculum Vitae, Hola software libre"
   description: ""

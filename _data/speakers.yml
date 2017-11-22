@@ -88,6 +88,17 @@
   social:
     - {name: "twitter", link: "http://twitter.com/abdonrd"}
 -
+  id: 11
+  name: "David"
+  surname: "De la Iglesia"
+  company: "Gradiant"
+  title: "Developer & Researcher"
+  bio: "Apasionado de Python y el Deep Learning desde antes de que se llamase Deep Learning"
+  thumbnailUrl: Unknown.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/abdonrd"}
+-
   id: 100
   name: "Cooming soon"
 #  surname: ""
