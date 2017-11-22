@@ -51,20 +51,20 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
- - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
+ - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2017-tickets-40182922202", text: "Entrada Gratuita"}
 rightNavigationButtons:
- - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
+ - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2017-tickets-40182922202", text: "Entrada Gratuita"}
 
 # Hero Block
 heroImage: "fireworks.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
 eventDate: "16 Diciembre 2017"
-typeoutTextValues: '"", "Ourense", "Santiago", "Vigo", "Galicia"'
+typeoutTextValues: '"", "Galicia"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
- - {link: "#tickets", text: "Patrocínanos!"}
- - {link: "https://www.meetup.com/es-ES/GDGVigo/events/242440940/", text: "Entrada gratuita"}
+ - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Patrocínanos!"}
+ - {link: "#tickets", text: "Entrada gratuita"}
 
 # About Block
 aboutTitle: "Sobre el GDG DevFest"
@@ -131,40 +131,25 @@ subscribeTitle: "Subscríbete para recibir novedades"
 subscribeAction: "//gdgvigo.us16.list-manage.com/subscribe/post?u=66b4bb03b0b8f95169952466e&amp;id=50c4e234dc"
 
 # Tickets Block
-ticketsTitle: "Patrocinios"
+ticketsTitle: "Entradas"
 ticketsOffers:
  -
-  name: "Shy guy"
-  price: "150"
+  name: "Entrada Gratuita"
+  price: "0"
   priceCurrency: "€"
-  ticketsNumber: "150"
-  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Patrocina ahora"
-  ticketContentList: ["Logo en web", "Diapositiva conjunta", "Mención en social media"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Big boss"
-  price: "800"
-  priceCurrency: "€"
-  ticketsNumber: "800"
+  ticketsNumber: "0"
+  ribbon: "GRATIS"
   featured: true
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Patrocina ahora"
-  ticketContentList: ["Todo lo incluído en High five ", "Logo en los títulos de la grabación", "Stand para contratar gente"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
- -
-  name: "High five"
-  price: "400"
-  priceCurrency: "€"
-  ticketsNumber: "400"
-  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Patrocina ahora"
+  buyButtonText: "Consegue tu entrada"
+  ticketContentList: ["Acceso a todas las charlas", "Noticias del evento", "Comida gratuita"]
+  validFrom: "2017-11-21T00:00"
+  validThrough: "2017-12-15T23:59"
+
 #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Todo lo incluído en Shy guy", "Diapositiva propia", "Logo en Camisetas"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  ticketContentList: ["Acceso a todas las charlas", "Noticias del evento", "Comida gratuita"]
+  validFrom: "2017-11-21T00:00"
+  validThrough: "2017-12-15T23:59"
 
 
 # Footer

@@ -76,3 +76,21 @@
   speakers: [6]
   language: es
   complexity: "Beginner"
+
+-
+  id: 006
+  title: "Charla: Adiós Curriculum Vitae, Hola software libre"
+  description: ""
+  subtype: charla
+  speakers: [8]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 007
+  title: "Charla: Desarrollo de aplicaciones móviles native vs web"
+  description: ""
+  subtype: charla
+  speakers: [9,10]
+  language: es
+  complexity: "Beginner"
