@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG DevFest Galicia 2017"
 email: "info@gdggalicia.com"
-description: "GDG DevFest es un conjunto de eventos celebrados en todo el mundo"
+description: "6 charlas, 4 talleres, hasta 390 asistentes. ¡No te lo pierdas!"
 baseurl: ""
 url: "http://devfest.gdggalicia.com"
 permalink: "/blog/:title"
