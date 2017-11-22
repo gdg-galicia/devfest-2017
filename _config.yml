@@ -35,6 +35,8 @@ twitterAccount: "@GDGVigo"
 socialImageSrcGooglePlus: "/img/seo/social-share.jpg"
 socialImageSrcTwitter: "/img/seo/social-share.jpg"
 socialImageSrcFacebook: "/img/seo/social-share.jpg"
+socialImageWidthFacebook: 2160
+socialImageHeightFacebook: 1080
 
 # Documents
 c4pUrl: "https://gdgvigo.typeform.com/to/JvDH2h"
