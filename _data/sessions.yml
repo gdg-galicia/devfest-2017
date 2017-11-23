@@ -61,8 +61,8 @@
 
 -
   id: 004
-  title: "Taller: Angular Basics"
-  description: "Taller paso a paso para crear una aplicación desde 0 escrita en TypeScript con Angular v4"
+  title: "Taller: Tú primera aplicación con Angular"
+  description: "Taller paso a paso para crear una aplicación desde 0 escrita en TypeScript con Angular CLI"
   subtype: workshop
   speakers: [5]
   language: es
@@ -101,5 +101,14 @@
   description: ""
   subtype: charla
   speakers: [9,10]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 009
+  title: "Taller: Implementar Google Analytics con Google Tag Manager"
+  description: "Aprende a implementar el tracking de tu página web con Google Analytics, usando Google Tag Manager."
+  subtype: workshop
+  speakers: [12]
   language: es
   complexity: "Beginner"

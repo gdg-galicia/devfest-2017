@@ -99,6 +99,17 @@
   social:
     - {name: "twitter", link: "http://twitter.com/abdonrd"}
 -
+  id: 12
+  name: "Eoghan"
+  surname: "Henn"
+  company: "searchVIU"
+  title: "Co-founder"
+  bio: "Technical marketing consultant, co-founder de searchVIU y lector de marketing digital en USC."
+  thumbnailUrl: eoghanHenn.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/rebelytics"}
+-
   id: 100
   name: "Cooming soon"
 #  surname: ""
