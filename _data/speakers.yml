@@ -110,6 +110,17 @@
   social:
     - {name: "twitter", link: "http://twitter.com/rebelytics"}
 -
+  id: 13
+  name: "Noelia"
+  surname: "Luaces"
+  company: ""
+  title: "Ingeniera Software"
+  bio: "Ingeniera Software con experiencia como backend developer. Mi principal interés es el análisis e implementación de soluciones para requisitos no funcionales como disponibilidad, mantenimiento, rendimiento, seguridad, testeabilidad o usabilidad."
+  thumbnailUrl: noeliaLuaces.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/rebelytics"}
+-
   id: 100
   name: "Cooming soon"
 #  surname: ""

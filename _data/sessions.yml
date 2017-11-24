@@ -112,3 +112,12 @@
   speakers: [12]
   language: es
   complexity: "Beginner"
+
+-
+  id: 010
+  title: "Charla: Descubriendo Scala"
+  description: "Introducción a las características de Scala y a los conceptos que maneja, cambiando el paradigma con respecto al desarrollo software en Java."
+  subtype: charla
+  speakers: [13]
+  language: es
+  complexity: "Beginner"
