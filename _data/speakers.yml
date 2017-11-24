@@ -29,7 +29,7 @@
   title: "Frontend Developer"
   bio: "Una programadora frontend especializada en Angular"
   thumbnailUrl: AnaCidre.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/anacidre_"}
 - 
