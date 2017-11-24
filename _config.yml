@@ -143,7 +143,7 @@ ticketsOffers:
   ribbon: "GRATIS"
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/registro-gdg-devfest-galicia-2017-40182922202"
-  buyButtonText: "Consegue tu entrada"
+  buyButtonText: "Consigue tu entrada"
   ticketContentList: ["Acceso a todas las charlas", "Noticias del evento", "Comida gratuita"]
   validFrom: "2017-11-21T00:00"
   validThrough: "2017-12-15T23:59"
