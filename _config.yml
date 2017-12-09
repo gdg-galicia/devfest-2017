@@ -64,9 +64,7 @@ eventDate: "16 Diciembre 2017"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Conviértete en speaker"}
- - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Patrocínanos!"}
- - {link: "#tickets", text: "Entrada gratuita"}
+ - {link: "#tickets", text: "Pilla tu entrada!"}
 
 # About Block
 aboutTitle: "Sobre el GDG DevFest"
@@ -124,7 +122,9 @@ twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizadores"
-partnersTitle: "Patrocinadores"
+partnersTitle: "
+
+adores"
 partnersC4sponsorsButton: "Hazte sponsor"
 
 # Subscribe Block
