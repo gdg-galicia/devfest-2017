@@ -69,7 +69,7 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre el GDG DevFest"
 aboutBlock:
- - {title: "Conferencias", image: "gdg-devfest.png", text: "En el GDG DevFests Galicia 2017 se realizarán 6 conferencias por unos pedazo de speakers que nos hablarán de las últimas tecnologías con las que está trabando." }
+ - {title: "Conferencias", image: "gdg-devfest.png", text: "En el GDG DevFests Galicia 2017 se realizarán 6 conferencias por unos pedazo de speakers que nos hablarán de las últimas tecnologías con las que están trabajando." }
  - {title: "Workshops", image: "gdgDevelopers.png", text: "Un dia entero de workshops que serán sesiones más participativas en las que se harán demos en tiempo real de productos y en las que puedes acercarte con tu propio portátil y resolver cualquier duda que te surja." }
 
 # Statistic Block
