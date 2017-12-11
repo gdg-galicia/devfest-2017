@@ -64,7 +64,7 @@ eventDate: "16 Diciembre 2017"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: ""
 heroButtons:
- - {link: "#tickets", text: "Pilla tu entrada!"}
+ - {link: "https://www.eventbrite.com/e/registro-gdg-devfest-galicia-2017-40182922202", text: "Pilla tu entrada!"}
 
 # About Block
 aboutTitle: "Sobre el GDG DevFest"
