@@ -3,7 +3,7 @@
   elements:
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
     - {name: "Concello de Pontevedra", description: "Concello de Pontevedra", link: "http://www.pontevedra.gal", imageUrl: "pontevedra_logo.png"}
-    - {name: "Optare Solutions", description: "Optare Solutions", link: "http://www.abbilia.optaresolutions.com/", imageUrl: "abbilia-optare.png"}
+    - {name: "Abbilia by Optare Solutions", description: "Abbilia by Optare Solutions", link: "http://abbilia.optaresolutions.com/", imageUrl: "abbilia-optare.png"}
 -
   group: "Sponsors"
   elements:
